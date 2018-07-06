@@ -1,6 +1,6 @@
 # NumPy-Pandas-MatPlotLib
 Projects from the Udacity Nanodegree AI Programming with Python in the form of Jupyter Notebooks . 
-The [first notebook]((https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/blob/master/) uses NumPy to perform mean normalization.
+The [first notebook](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/blob/master/Mean%20Normalization%20and%20Data%20Separation%20.ipynb) uses NumPy to perform mean normalization.
 The [Second notebook]((https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/blob/master/CONTRIBUTING) uses Pandas to extract useful information concerning Apple, Amazon, and Google stocks.
 
 ## Getting Started
