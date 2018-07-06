@@ -30,7 +30,7 @@ In order to better view and work on the jupyter Notebook I encourage you to use 
 ```
 git clone https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/
 ```
-then in the command Line type, after you have downloaded jupyter notebook type in the command Line
+then in the command Line type, after you have downloaded jupyter notebook type
 ```
 jyputer notebook
 ```
