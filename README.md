@@ -26,7 +26,15 @@ pip install python -- upgrade
 
 ### Viewing the Jupyter Notebook
 
-In order to better view and work on the jupyter Notebook I encourage you to use [nbviewer](https://nbviewer.jupyter.org/) . You can simply copy and paste the link to this website and you will be able to edit it without any problem.
+In order to better view and work on the jupyter Notebook I encourage you to use [nbviewer](https://nbviewer.jupyter.org/) . You can simply copy and paste the link to this website and you will be able to edit it without any problem. Alternatively you can clone the repository using 
+```
+git clone https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/
+```
+then in the command Line type, after you have downloaded jupyter notebook type in the command Line
+```
+jyputer notebook
+```
+locate the notebook and run it.
 
 ### Data
 
