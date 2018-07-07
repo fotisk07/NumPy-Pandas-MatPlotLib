@@ -24,6 +24,21 @@ to upgrade Python
 pip install python -- upgrade
 ```
 
+You will also need to download the Numpy, Pandas and MatplotLib packages. Again in the command Line type
+```
+pip install numpy 
+pip install pandas
+pip install matplotlib
+```
+to download them using pip or
+
+```
+conda install numpy pandas matplotlib 
+
+```
+and type Yes when asked to to download them using Anaconda.
+
+
 ### Viewing the Jupyter Notebook
 
 In order to better view and work on the jupyter Notebook I encourage you to use [nbviewer](https://nbviewer.jupyter.org/) . You can simply copy and paste the link to this website and you will be able to edit it without any problem. Alternatively you can clone the repository using 
