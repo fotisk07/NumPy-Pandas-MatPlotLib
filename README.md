@@ -53,7 +53,7 @@ locate the notebook and run it.
 
 ### Data
 
-The NumPy Project does not require any external dataset . However the Pandas one does require the Stock data in order to work. Stock data are already provided in the Folder data in the form of .csv files, but feel free to use any other data you wish by doing the appropraite modifications.
+The NumPy Project does not require any external dataset . However the Pandas one does require  Stock data from 3 companies in order to work. Stock data are already provided in the Folder data in the form of 3 .csv files(APPL, AMZN, GOOG), but feel free to use any other data you wish by doing the appropraite modifications. 
 
 
 ## Contributing
