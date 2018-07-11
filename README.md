@@ -2,6 +2,7 @@
 Projects from the Udacity Nanodegree AI Programming with Python in the form of Jupyter Notebooks . 
 The [first notebook](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/blob/master/Mean%20Normalization%20and%20Data%20Separation%20.ipynb) uses NumPy to perform mean normalization.
 The [Second notebook](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/blob/master/Statistics%20from%20Stock%20Data.ipynb) uses Pandas to extract useful information concerning Apple, Amazon, and Google stocks.
+The remaining notebooks demonstrate basic features of the MatPlotLib library.
 
 ## Getting Started
 
@@ -53,7 +54,7 @@ locate the notebook and run it.
 
 ### Data
 
-The NumPy Project does not require any external dataset . However the Pandas one does require  Stock data from 3 companies in order to work. Stock data are already provided in the Folder data in the form of 3 .csv files(APPL, AMZN, GOOG), but feel free to use any other data you wish by doing the appropraite modifications. 
+The [NumPy Project](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/Mean Normalization and Data Separation.ipynb) does not require any external dataset . However the [Pandas](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/Statistics from Stock Data.ipynb) one does require Stock data from 3 companies in order to work. Stock data are already provided in the Folder data in the form of 3 .csv files(APPL, AMZN, GOOG), but feel free to use any other data you wish by doing the appropraite modifications. Also the [Bar_Chart_Practice](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/Bar_Chart_Practice.ipynb), the [Histogram_Practice](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/Histogram_Practice.ipynb) and the [Scales_and_Transformations_Practice](https://github.com/fotisk07/NumPy-Pandas-MatPlotLib/Scales_and_Transformations_Practice.ipynb) notebooks require external data in order to create the relative plots. Two datasets are provided, Pokemon and fuel data, but you can use any data to plot the relative diagrams if you perform the necessery modifications. 
 
 
 ## Contributing
